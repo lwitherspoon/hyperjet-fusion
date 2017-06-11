@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Event &#8211; Demo Website</title>
+	<atom:link href="http://localhost/demo/category/event/feed/" rel="self" type="application/rss+xml" />
+	<link>http://laurawitherspoon.com/hyperjet-fusion</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 11 Jun 2017 17:12:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Event Article</title>
+		<link>http://laurawitherspoon.com/hyperjet-fusion/2017/06/11/event-article/</link>
+		<pubDate>Sun, 11 Jun 2017 13:22:29 +0000</pubDate>
+		<dc:creator><![CDATA[laura]]></dc:creator>
+				<category><![CDATA[Event]]></category>
+
+		<guid isPermaLink="false">http://laurawitherspoon.com/hyperjet-fusion/?p=78</guid>
+		<description><![CDATA[Quisque aliquam at lorem sed rutrum. Curabitur nibh lorem, tincidunt sed egestas eget, ultrices cursus nisl. Nunc vestibulum viverra gravida. Donec et porttitor nisi. Nulla sagittis mollis semper. Aenean pulvinar elementum gravida. Cras hendrerit erat nec bibendum condimentum. Suspendisse ac commodo metus, quis feugiat lectus. Nulla efficitur interdum nibh, sed tempor ex scelerisque ac. Mauris lobortis rutrum ligula, a consequat ... <div><a href="http://laurawitherspoon.com/hyperjet-fusion/2017/06/11/event-article/" class="more-link">Read More</a></div>]]></description>
+				<content:encoded><![CDATA[<p>Quisque aliquam at lorem sed rutrum. Curabitur nibh lorem, tincidunt sed egestas eget, ultrices cursus nisl. Nunc vestibulum viverra gravida. Donec et porttitor nisi. Nulla sagittis mollis semper. Aenean pulvinar elementum gravida. Cras hendrerit erat nec bibendum condimentum. Suspendisse ac commodo metus, quis feugiat lectus. Nulla efficitur interdum nibh, sed tempor ex scelerisque ac. Mauris lobortis rutrum ligula, a consequat erat venenatis aliquam. Donec sed urna risus. Morbi volutpat magna id sagittis feugiat. Praesent dictum sem et libero suscipit, eu ornare dui tristique.</p>
+<p>Sed auctor id magna maximus fringilla. Etiam maximus condimentum facilisis. Suspendisse ligula risus, aliquam non justo a, feugiat efficitur est. Aenean vel libero eu lorem condimentum efficitur nec eget ante. Integer at sem faucibus, ultricies augue vel, scelerisque enim. Nam tempor nunc sit amet nunc malesuada, eget vulputate arcu bibendum. Phasellus aliquam, leo eget gravida sollicitudin, dolor odio placerat ante, ut feugiat risus dolor sit amet urna. Nulla semper, augue eu porta dapibus, felis augue convallis eros, et laoreet ante sem ac ex. Suspendisse ornare sit amet arcu sit amet ultricies. Etiam commodo massa at diam pellentesque, aliquet condimentum ligula interdum.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
